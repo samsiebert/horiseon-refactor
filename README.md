@@ -6,8 +6,8 @@
 Refactored company's webpage to meet accessibility standards
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website 
 https://samsiebert.github.io/horiseon-refactor/
